@@ -24,10 +24,10 @@
 
 #### Mobile Version
 
-![Portfolio Screenshot](website-pics/mobile_home.PNG)
-![Portfolio Screenshot](website-pics/mobile_about.PNG)
-![Portfolio Screenshot](website-pics/mobile_projects.PNG)
-![Portfolio Screenshot](website-pics/mobile_contact.PNG)
+![Portfolio Screenshot](website-pics/mobile_home.png)
+![Portfolio Screenshot](website-pics/mobile_about.png)
+![Portfolio Screenshot](website-pics/mobile_projects.png)
+![Portfolio Screenshot](website-pics/mobile_contact.png)
 
 ## Resources Used in This Project
 
