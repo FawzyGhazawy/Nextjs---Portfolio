@@ -19,7 +19,7 @@ My journey in web development is powered by an array of mystical tools and langu
 
 Beyond the front-end incantations, I command the server-side sorcery of Java , harnessing the mighty Spring Boot framework to forge powerful, scalable backends that stand resilient against the chaos of high traffic and complex logic.
 
-My enchanted data vaults are secured with PostgreSQL , ensuring structured, reliable, and efficient storage that speaks the ancient language of SQL. Whether I'm summoning APIs or weaving multi-threaded spells for performance, I blend creativity with structure to bring ideas to life on the web.
+My enchanted data vaults are secured with PostgreSQL , ensuring structured, reliable, and efficient storage that speaks the ancient language of SQL. Whether I&apos;m summoning APIs or weaving multi-threaded spells for performance, I blend creativity with structure to bring ideas to life on the web.
 
 The ancient arts of the Jamstack empower me to create fast, secure, and dynamic experiences, while my design skills ensure every creation is not only functional but visually captivating.
 
